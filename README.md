@@ -28,11 +28,11 @@ using json data to create a product item to Increase or Decrease the per unit Qu
    - in this file import the store code. it has reducer function.
 
 7. In Main.jsx
-   - in this file we provide store to App.jsx file
+   - [Main.jsx](Main.js) file we provide store to App.jsx file
 
 8. In App.jsx
-   - in this file import all the function 
+   - [App.jsx](App.jsx) file import all the function 
    - using dispatch method to increase and decrease quantity, remove product list.
    - display all the product details 
-   
+
 finally  ready our application then we push to github and depolyed in netlify  to display our application in browser.
